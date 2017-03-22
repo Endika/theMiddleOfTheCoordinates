@@ -7,7 +7,7 @@ Simple script to calculate the central coordinate of a list
 # How to run
 
 ```
-import theMiddle
+from theMiddle import MiddleCoordinates
 my_coordinates = [[43.267422, -2.934732],
                   [43.269466, -2.935319],
                   [43.268189, -2.931603]]
